@@ -1,0 +1,20 @@
+﻿  main.cpp
+D:\PROJECTS\Lissajous curve\Lissajous-curve\Lissajous\LissajousCurve.h(13,16): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+D:\PROJECTS\Lissajous curve\Lissajous-curve\Lissajous\LissajousCurve.h(13,13): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+D:\PROJECTS\Lissajous curve\Lissajous-curve\Lissajous\LissajousCurve.h(29,34): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\PROJECTS\Lissajous curve\Lissajous-curve\Lissajous\LissajousCurve.h(30,42): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\PROJECTS\Lissajous curve\Lissajous-curve\Lissajous\LissajousCurve.h(30,29): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Создание кода
+  1 of 14 functions ( 7.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Lissajous.vcxproj -> D:\PROJECTS\Lissajous curve\Lissajous-curve\Lissajous\x64\Release\Lissajous.exe
